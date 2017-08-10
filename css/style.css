@@ -175,6 +175,13 @@ span {
   text-align: center;
 }
 
+.project-entry img{
+  width: 48%;
+}
+.education-entry h3 {
+  padding-left: 0;
+}
+
 /* Media queries to handle various device widths */
 
 @media only screen and (max-width: 1024px) {
