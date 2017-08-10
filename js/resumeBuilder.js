@@ -130,12 +130,12 @@ var projects = {
         "title": "Portfolio of Year 2016",
         "dates": "Year of 2016",
         "description": "Applied HTML5, CSS3, and JQuery to create an user friendly responsive website.",
-        "images": ["images/p1.png", "images/p11.png"]
+        "images": ["images/p1.PNG", "images/p11.PNG"]
     }, {
         "title": "Develop Backhaul External Point to Point Wireless Solution for Non-profit organization",
         "dates": "Year of 2016",
         "description": "Researched and analyzed different licensed, lightly licensed, and unlicensed external point to point wireless systems and designed a backhaul external point to point wireless solution that satisfy client’s needs",
-        "images": ["images/p2.png", "images/chart.png"]
+        "images": ["images/p2.PNG", "images/chart.PNG"]
     }],
     display: function() {
         $("#projects").append(HTMLprojectStart);
